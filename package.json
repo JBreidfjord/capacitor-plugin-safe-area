@@ -1,6 +1,6 @@
 {
   "name": "@polyfillhq/capacitor-plugin-safe-area",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "A Capacitor V3/V4 plugin to get Statusbar Height on Android and get SafeArea info on iOS. Forked to fix breaking bugs.",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
