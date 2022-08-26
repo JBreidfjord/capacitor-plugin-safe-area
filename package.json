@@ -1,6 +1,6 @@
 {
-  "name": "capacitor-plugin-safe-area-fork",
-  "version": "0.0.9",
+  "name": "@polyfillhq/capacitor-plugin-safe-area",
+  "version": "0.0.6",
   "description": "A Capacitor V3/V4 plugin to get Statusbar Height on Android and get SafeArea info on iOS. Forked to fix breaking bugs.",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
@@ -11,16 +11,16 @@
     "android/build.gradle",
     "dist/",
     "ios/Plugin/",
-    "CapacitorPluginSafeAreaFork.podspec"
+    "CapacitorPluginSafeArea.podspec"
   ],
-  "author": "Jonathan Breidfjord <jbreidfjord@gmail.com>",
+  "author": "Polyfill HQ",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JBreidfjord/capacitor-plugin-safe-area.git"
+    "url": "git+https://github.com/polyfill-hq/capacitor-plugin-safe-area.git"
   },
   "bugs": {
-    "url": "https://github.com/JBreidfjord/capacitor-plugin-safe-area/issues"
+    "url": "https://github.com/polyfill-hq/capacitor-plugin-safe-area/issues"
   },
   "keywords": [
     "capacitor",
